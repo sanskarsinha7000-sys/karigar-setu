@@ -1,0 +1,44 @@
+{
+  "name": "karigar-setu",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "dev:server": "node server/index.js",
+    "dev:client": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@react-three/drei": "10.7.8",
+    "@react-three/fiber": "9.7.0",
+    "autoprefixer": "10.4.14",
+    "bcryptjs": "2.4.3",
+    "better-sqlite3": "13.0.3",
+    "clsx": "2.1.1",
+    "express": "4.21.2",
+    "framer-motion": "13.2.0",
+    "gsap": "3.12.2",
+    "lucide-react": "1.41.0",
+    "nanoid": "^3.3.8",
+    "multer": "2.0.2",
+    "postcss": "8.4.24",
+    "qrcode.react": "4.2.0",
+    "react": "19.2.8",
+    "react-dom": "19.2.8",
+    "react-hook-form": "7.87.0",
+    "react-parallax-tilt": "1.7.341",
+    "react-router-dom": "6.14.1",
+    "recharts": "3.10.1",
+    "rollup": "^4.13.0",
+    "source-map-js": "^1.2.1",
+    "three": "0.185.1",
+    "jsonwebtoken": "9.0.2",
+    "zustand": "4.4.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "tailwindcss": "^3.4.7",
+    "vite": "^5.2.0"
+  }
+}

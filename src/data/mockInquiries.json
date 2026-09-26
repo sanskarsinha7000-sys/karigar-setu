@@ -1,0 +1,12 @@
+[
+  {"id":"I001","productId":"P001","buyerName":"GreenHome Co.","message":"Interested in 50 units for retail; need size options","date":"2026-08-01","smsFallback":false},
+  {"id":"I002","productId":"P006","buyerName":"UrbanGifts","message":"Can we customize the pendant motifs?","date":"2026-08-02","smsFallback":true},
+  {"id":"I003","productId":"P012","buyerName":"FestivalLights","message":"Wholesale pricing for 200 pieces?","date":"2026-08-03","smsFallback":false},
+  {"id":"I004","productId":"P014","buyerName":"Boutique Silk","message":"Colorway options and lead time?","date":"2026-08-04","smsFallback":true},
+  {"id":"I005","productId":"P010","buyerName":"Hotel Interiors","message":"Interested in bespoke tile sets for lobby","date":"2026-08-05","smsFallback":false},
+  {"id":"I006","productId":"P004","buyerName":"Dining Co.","message":"Can we get a matching runner and napkins?","date":"2026-08-06","smsFallback":false},
+  {"id":"I007","productId":"P022","buyerName":"Export House","message":"What's the yarn source and certification?","date":"2026-08-07","smsFallback":true},
+  {"id":"I008","productId":"P021","buyerName":"Gift Studio","message":"Packaging options and MOQ?","date":"2026-08-08","smsFallback":false},
+  {"id":"I009","productId":"P003","buyerName":"EcoMarkets","message":"Are these water-resistant?","date":"2026-08-09","smsFallback":true},
+  {"id":"I010","productId":"P018","buyerName":"Handmade Bazaar","message":"Lead time for 100 pieces?","date":"2026-08-10","smsFallback":false}
+]

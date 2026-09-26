@@ -1,0 +1,16 @@
+node_modules/
+.venv/
+vision-service/.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+dist/
+build/
+server/data/*.db
+server/data/*.db-shm
+server/data/*.db-wal
+.DS_Store
+*.log
+NUL
+*.bak

@@ -1,0 +1,14 @@
+[
+  {"id":"A001","name":"Kamla Devi","village":"Sundarpur","craft":"Terracotta Pottery","language":"Hindi","affiliation":"Shakti SHG"},
+  {"id":"A002","name":"Ratan Kumar","village":"Mohanpur","craft":"Handloom Textiles","language":"Bengali","affiliation":"WeaveCo"},
+  {"id":"A003","name":"Rukmini","village":"Bela","craft":"Basket Weaving","language":"Marathi","affiliation":"Grameen Crafts"},
+  {"id":"A004","name":"Suresh Patel","village":"Kodinar","craft":"Block Printing","language":"Gujarati","affiliation":"Artisans Guild"},
+  {"id":"A005","name":"Fatima Begum","village":"Kachua","craft":"Embroidery","language":"Hindi","affiliation":"Seva NGO"},
+  {"id":"A006","name":"Imran Khan","village":"Durgapur","craft":"Brass Jewelry","language":"Urdu","affiliation":"Kaarigari"},
+  {"id":"A007","name":"Laxmi Bai","village":"Piplantri","craft":"Wood Carving","language":"Hindi","affiliation":"Panchayat Crafts"},
+  {"id":"A008","name":"Hina Rani","village":"Chikmagalur","craft":"Tea Weaving","language":"Kannada","affiliation":"Mountain Hands"},
+  {"id":"A009","name":"Gopal Yadav","village":"Nalanda","craft":"Stone Inlay","language":"Bhojpuri","affiliation":"Temple Artisans"},
+  {"id":"A010","name":"Nirmala","village":"Gadchiroli","craft":"Tribal Textiles","language":"Gondi","affiliation":"Adivasi Crafts"},
+  {"id":"A011","name":"Bela Singh","village":"Sikar","craft":"Lacware","language":"Rajasthani","affiliation":"Desert Made"},
+  {"id":"A012","name":"Mohan Lal","village":"Ballia","craft":"Paper Mache","language":"Hindi","affiliation":"EcoArt"}
+]
